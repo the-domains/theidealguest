@@ -1,0 +1,28 @@
+name: TheIdealGuest
+favicon: null
+layout_spectrum: 0.0496552218683064
+typography_spectrum: 0.2769791337195784
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9186958498321474
+  lightness: 0.9832124554086477
+  saturation: 0.3500653838273138
+  rhythmicContrast: 0.7058993480168283
+purpose: []
